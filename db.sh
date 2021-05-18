@@ -2,3 +2,4 @@
 mongodb
 mysql
 sgl
+dynamo db

@@ -1,0 +1,4 @@
+# lsit
+mongodb
+mysql
+sgl

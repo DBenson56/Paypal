@@ -1,0 +1,5 @@
+Th is is a text file.
+Git is very easy
+just be patient and ask your questions at the end.
+Some of your questions would be answered before the end of class.
+
